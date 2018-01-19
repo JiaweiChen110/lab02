@@ -1,0 +1,1 @@
+echo "parameter - >"  $1
